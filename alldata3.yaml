@@ -1,0 +1,6 @@
+train: C:/yolop/alldata/train
+val: C:/yolop/alldata/valid
+test: C:/yolop/alldata/test
+
+nc: 4  # Número de clases (poste, grafiti, grieta)
+names: ['poste', 'grafiti', 'grieta','letrero']
